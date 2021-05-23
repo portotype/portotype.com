@@ -9,4 +9,4 @@ Angel activity
 - Weld.so: Seed investor.
 - June.so: Seed investor.
 
-[Home](../)
+[Home](./)
