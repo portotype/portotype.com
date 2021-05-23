@@ -1,4 +1,4 @@
-![portotype-logo](documents/brand/logo-vertical-white-on-black.jpg)
+<img src="documents/brand/logo-vertical-white-on-black.jpg" alt="portotype-logo" width="50%"/>
 
 [Angel investments](/angel-investments)  
 [Domains](/domains)  
