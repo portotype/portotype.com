@@ -1,7 +1,7 @@
 <img src="documents/brand/logo-vertical-white-on-black.jpg" alt="portotype-logo" width="50%"/>
 
-[Angel investments](/angel-investments)  
-[Domains](/domains)  
+[Angel activity](/documents/angel/)  
+[Domains](/documents/domains/)  
 [Blog](https://patife.com)  
 
 ---
