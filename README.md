@@ -1,4 +1,4 @@
-![portotype-logo](documents/brand/logo-vertical-black-on-white.jpg)
+![portotype-logo](documents/brand/logo-vertical-white-on-black.jpg)
 
 [Angel investments](/angel-investments)  
 [Domains](/domains)  
