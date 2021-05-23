@@ -9,4 +9,3 @@ Angel activity
 - [Weld.so](https://weld.so): Seed investor.
 - [June.so](https://june.so): Seed investor.
 
-[Home](/../../)
