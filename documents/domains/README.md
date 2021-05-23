@@ -15,4 +15,3 @@ Domains & online assets
 
 Email humberto at hey dot com for more details. 
 
-[Home](/../../) 
