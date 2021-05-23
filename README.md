@@ -3,8 +3,4 @@
 [Angel activity](/documents/angel/)  
 [Domains](/documents/domains/)  
 [Blog](https://patife.com)  
-
----
-
-Portotype, Unipessoal LDA  
-PT516309625
+[About](/documents/about)  
