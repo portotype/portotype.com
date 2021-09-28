@@ -2,7 +2,7 @@ Angel activity (chronological)
 
 - [AirCourts.com](https://aircourts.com): Invested at incorporation. Co-founder. Board member.
 - [Rows.com](https://rows.com): Investor at incorporation. Co-founder. CEO. Board member.
-- [Replai.ai](https://replai.ai): Seed investor. Advisor. Series-A investor via Accel Starters.
+- [Replai.io](https://replai.io): Seed investor. Advisor. Series-A investor via Accel Starters.
 - [Frond.com](https://frond.com): Seed investor.
 - [SalesLayer.com](https://saleslayer.com): Independent board member. Advisor.
 - [Super-Agent.com](https://super-agent.com): Investor at incorporation. Chairman. Board member.
