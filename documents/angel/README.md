@@ -10,8 +10,8 @@ Angel activity (chronological)
 - [June.so](https://june.so): Seed investor.
 - [Vawlt.io](https://vawlt.io): Seed investor via Accel Starters. 
 - [Attio.com](https://attio.com): Seed investor via Accel Starters.
-- [Coverflex.com](https://coverflex.com): Bridge to Series-A investor via Accel Starters.
+- [Coverflex.com](https://coverflex.com): Investor in the bridge to Series-A, via Accel Starters.
+- [XXX](XXX): Seed investor via Accel Starters.
 
-Notes
-- Accel Starters is a scouting initiative.
+Note: Accel Starters is a scouting initiative by VC Accel.
 
