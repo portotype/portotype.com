@@ -11,6 +11,8 @@ Angel activity (chronological)
 - [Vawlt.io](https://vawlt.io): Seed investor via Accel Starters. 
 - [Attio.com](https://attio.com): Seed investor via Accel Starters.
 - [Coverflex.com](https://coverflex.com): Investor in the bridge to Series-A, via Accel Starters.
+- [Pipelaunch.com](https://pipelaunch.com): Pre-Seed investor via Accel Starters.
+- [Datafordeals.com](https://datafordeals.com): Pre-Seed investor via Accel Starters.
 - [XXX](XXX): Seed investor via Accel Starters.
 
 Note: Accel Starters is a scouting initiative by VC Accel.
