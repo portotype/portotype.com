@@ -13,7 +13,7 @@ Angel activity (chronological)
 - [Coverflex.com](https://coverflex.com): Investor in the bridge to Series-A, via Accel Starters.
 - [Pipelaunch.com](https://pipelaunch.com): Pre-Seed investor via Accel Starters.
 - [Datafordeals.com](https://datafordeals.com): Pre-Seed investor via Accel Starters.
-- [XXX](XXX): Seed investor via Accel Starters.
+- [Relive.pt](https://relive.pt): Seed investor via Accel Starters.
 
 Note: Accel Starters is a scouting initiative by VC Accel.
 
