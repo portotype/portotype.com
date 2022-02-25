@@ -14,6 +14,9 @@ Angel activity (chronological)
 - [Pipelaunch.com](https://pipelaunch.com): Pre-Seed investor via Accel Starters.
 - [Datafordeals.com](https://datafordeals.com): Pre-Seed investor via Accel Starters.
 - [Relive.pt](https://relive.pt): Seed investor via Accel Starters.
+- [XXXXXX](): Seed investor via Accel Starters.
+- [XXXXXX](): Pre-Seed investor (pooled).
+- [XXXXXX](): Pre-Seed investor.
 
 Note: Accel Starters is a scouting initiative by VC Accel.
 
