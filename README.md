@@ -3,4 +3,5 @@
 [Angel activity](/documents/angel/)  
 [Domains](/documents/domains/)  
 [Blog](https://patife.com)  
+[Q&A](/documents/definitions/)
 [About](/documents/about)  
