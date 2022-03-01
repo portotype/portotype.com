@@ -8,7 +8,7 @@ Potentially for sale
 | Place  | praiadocarvalhal.com  |   $3k | beach in the south of portugal.                                                                 |
 | Place  | vilapraiadeancora.com |   $5k | town in the north of portugal.                                                                  |
 | Tech   | codedown.org          |   $2k | code + markdown.                                                                                |
-| Tech   | ~puter.com~ SOLD      |  $25k | [nickname](https://www.youtube.com/watch?v=iEHWBp3KjCI&t=32s) for the computer.                 |
+| Tech   | ~puter.com~ SOLD      | ~$25k~| [nickname](https://www.youtube.com/watch?v=iEHWBp3KjCI&t=32s) for the computer.                 |
 | Other  | escamado.com          |  $500 | fish term in portuguese.                                                                        |
 | Other  | foodtypes.org         |   $2k | -                                                                                               |
 | Other  | forrobodo.com         |   $5k | loud, messy party. disorderly.
