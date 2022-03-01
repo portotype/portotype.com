@@ -26,6 +26,11 @@ Not for sale
 | portotipo.com      |     - | not for sale. play on the words prototype + porto (city). |
 | portotype.com      |     - | not for sale. play on the words prototype + porto (city). |
 
+Hall of Fame (sold)
+
+| Type   | Domain                | Price | Comments                                                                                        |
+|:-------|:----------------------|------:|:------------------------------------------------------------------------------------------------|
+| Tech   | puter.com             | $25k  | [nickname](https://www.youtube.com/watch?v=iEHWBp3KjCI&t=32s) for the computer.                 |
 
 Email humberto at hey dot com for more details. 
 
