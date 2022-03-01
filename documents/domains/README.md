@@ -2,21 +2,18 @@ Potentially for sale
 
 | Type   | Domain                | Price | Comments                                                                                        |
 |:-------|:----------------------|------:|:------------------------------------------------------------------------------------------------|
-| Places | -                     |     - | -                                                                                               |
-|        | angeiras.com          |   $5k | famous seafood place near porto, portugal.                                                      |
-|        | nevogilde.com         |   $3k | neighborhood in porto, portugal.                                                                |
-|        | praiadamariana.com    |   $3k | beach in the north of portugal.                                                                 |
-|        | praiadocarvalhal.com  |   $3k | beach in the south of portugal.                                                                 |
-|        | vilapraiadeancora.com |   $5k | town in the north of portugal.                                                                  |
-| Tech   | -                     |     - | -                                                                                               |
-|        | codedown.org          |   $2k | code + markdown.                                                                                |
-|        | puter.com             |  $25k | nickname for the computer. Also, see [this](https://www.youtube.com/watch?v=iEHWBp3KjCI&t=32s). |
-| Others | -                     |     - | -                                                                                               |
-|        | escamado.com          |  $500 | fish term in portuguese.                                                                        |
-|        | foodtypes.org         |   $2k | -                                                                                               |
-|        | forrobodo.com         |   $5k | loud, messy party. disorderly.
-|        | patife.com            |  $20k | rascal in Portuguese. also have the twitter handle @patife.                                     |
-|        | polex.org             |   $2k | politics + exchange.                                                                            |
+| Place  | angeiras.com          |   $5k | famous seafood place near porto, portugal.                                                      |
+| Place  | nevogilde.com         |   $3k | neighborhood in porto, portugal.                                                                |
+| Place  | praiadamariana.com    |   $3k | beach in the north of portugal.                                                                 |
+| Place  | praiadocarvalhal.com  |   $3k | beach in the south of portugal.                                                                 |
+| Place  | vilapraiadeancora.com |   $5k | town in the north of portugal.                                                                  |
+| Tech   | codedown.org          |   $2k | code + markdown.                                                                                |
+| Tech   | ~puter.com~ SOLD      |  $25k | [nickname](https://www.youtube.com/watch?v=iEHWBp3KjCI&t=32s) for the computer.                 |
+| Other  | escamado.com          |  $500 | fish term in portuguese.                                                                        |
+| Other  | foodtypes.org         |   $2k | -                                                                                               |
+| Other  | forrobodo.com         |   $5k | loud, messy party. disorderly.
+| Other  | patife.com            |  $20k | rascal in Portuguese. also have the twitter handle @patife.                                     |
+| Other  | polex.org             |   $2k | politics + exchange.                                                                            |
 
 Not for sale
 
