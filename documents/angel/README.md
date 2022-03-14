@@ -1,7 +1,7 @@
 Angel activity (chronological)
 
-- [AirCourts.com](https://aircourts.com): Invested at incorporation. Co-founder. Board member.
-- [Rows.com](https://rows.com): Investor at incorporation. Co-founder. CEO. Board member.
+- [AirCourts.com](https://aircourts.com): Co-founder. Invested at incorporation. Board member.
+- [Rows.com](https://rows.com): Co-founder. Investor at incorporation. CEO. Board member.
 - [Replai.io](https://replai.io): Seed investor. Advisor. Series-A investor via Accel Starters.
 - [Frond.com](https://frond.com): Seed investor.
 - [SalesLayer.com](https://saleslayer.com): Independent board member. Advisor.
@@ -15,6 +15,7 @@ Angel activity (chronological)
 - [Datafordeals.com](https://datafordeals.com): Pre-Seed investor via Accel Starters.
 - [Relive.pt](https://relive.pt): Seed investor via Accel Starters.
 - [XXXXXX](): Seed investor via Accel Starters.
+- [Cowboy.com](https://cowboy.com): Series-C investor via Crowdfunding. Tiny stake.
 - [Zaplib.com](https://zaplib.com): Pre-Seed investor (pooled).
 - [XXXXXX](): Pre-Seed investor.
 
