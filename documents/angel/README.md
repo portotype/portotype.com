@@ -1,4 +1,4 @@
-Angel activity (chronological)
+Investment activity (chronological)
 
 - [AirCourts.com](https://aircourts.com): Co-founder. Invested at incorporation. Board member.
 - [Rows.com](https://rows.com): Co-founder. Investor at incorporation. CEO. Board member.
@@ -15,9 +15,10 @@ Angel activity (chronological)
 - [Datafordeals.com](https://datafordeals.com): Pre-Seed investor via Accel Starters.
 - [Relive.pt](https://relive.pt): Seed investor via Accel Starters.
 - [XXXXXX](): Seed investor via Accel Starters.
+- [XXXXXX](): Series-A investor via Accel Starters.
 - [Cowboy.com](https://cowboy.com): Series-C investor via Crowdfunding. Tiny stake.
 - [Zaplib.com](https://zaplib.com): Pre-Seed investor (pooled).
-- [XXXXXX](): Pre-Seed investor.
+- [FileCream.com](https://filecream.com): Pre-Seed investor.
 
 Note: Accel Starters is a scouting initiative by VC Accel.
 
