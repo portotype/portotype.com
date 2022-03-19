@@ -11,7 +11,7 @@ Potentially for sale
 | Other  | escamado.com          |  $500 | fish term in portuguese.                                                                        |
 | Other  | foodtypes.org         |   $2k | -                                                                                               |
 | Other  | forrobodo.com         |   $5k | loud, messy party. disorderly.
-| Other  | patife.com            |  $20k | rascal in Portuguese. also have the twitter handle @patife.                                     |
+| Other  | patife.com            |  $25k | rascal in Portuguese. also have the twitter handle @patife.                                     |
 | Other  | polex.org             |   $2k | politics + exchange.                                                                            |
 
 Not for sale
