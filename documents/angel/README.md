@@ -14,8 +14,8 @@ Investment activity (chronological)
 - [Pipelaunch.com](https://pipelaunch.com): Pre-Seed investor via Accel Starters.
 - [Datafordeals.com](https://datafordeals.com): Pre-Seed investor via Accel Starters.
 - [Relive.pt](https://relive.pt): Seed investor via Accel Starters.
-- [XXXXXX](): Seed investor via Accel Starters.
-- [XXXXXX](): Series-A investor via Accel Starters.
+- [Oscar-app.com](https://oscar-app.com): Seed investor via Accel Starters.
+- [Smartex.ai](https://smartex.ai): Series-A investor via Accel Starters.
 - [Cowboy.com](https://cowboy.com): Series-C investor via Crowdfunding. Tiny stake.
 - [Zaplib.com](https://zaplib.com): Pre-Seed investor (pooled).
 - [FileCream.com](https://filecream.com): Pre-Seed investor.
