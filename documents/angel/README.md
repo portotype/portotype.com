@@ -22,5 +22,5 @@ Investment activity (chronological)
 
 Programs
 - [Accel](https://accel.com): Accel Starters is a scouting initiative. I have been part of the program for the 2020 and 2021 initiatives.
-- [Shilling](https://silling.vc): Shilling's Founders Fund has a profit sharing model for founders of the companies they invest in. So, I have some carry in that fund. 
+- [Shilling](https://shilling.vc): Shilling's Founders Fund has a profit sharing model for founders of the companies they invest in. So, I have some carry in that fund. 
 
