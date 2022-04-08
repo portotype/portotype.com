@@ -25,13 +25,11 @@ Programs
 - [Shilling](https://shilling.vc): Shilling's Founders Fund has a profit sharing model for founders of the companies they invest in.
 
 How do I invest?
-- I have stock in startups via 3 mechanisms: personal investments, holding investments, and agreements.
-    - Personal investments are old investments I made as Humberto, the person. 
-    - Structured investments are all the newer investments I've done via my micro investments company (Portotype).
-    - Agreements are situations where I have not directly investment money, and I get shared because of my Angel activity:
+- I have stock in startups via investments and agreements, sometimes both.
+    - Investments are situations where I directly invested money. I give cash, I get shares. I made old investments as Humberto (the person) and I now make investments as via my micro investment company (Portotype).
+    - Agreements are situations where I have not directly investment money, and I get shares because of my involvement. Here, too, I followed the same evolution: I used to do agreements personally, and now I do them via my company Portotype.
         - In some companies, I get shares for being an Advisor or a Board Member. Conditions apply to these shares, including vesting.
-        - For the companies that say "via Accel Starters", this is an investment through the Accel Starters scouting program. There, I don't actually sign the investment; I just indicate the companies, and Accel invests. I will get my share of the total return of the investment between all scouts. If Accel invests more in these companies later, I may earn a small carry. All the return that I get is via Portotype.
+        - For the companies that say "via Accel Starters", I made an investment through the Accel Starters scouting program. This means that I don't actually sign the investment or send them money; I just indicate the companies, and Accel invests. If the company is successful, the returns of the investment are split between all scouts. If Accel invests more money into these companies later, I may earn a small carry on that new investment. 
         - Then there's other programs, where I gain some carry on investments through other mechanics.    
-- Generally I invest very little money like $10k or less, with a couple of exceptions like the Accel Starters program. 
-    - This means that I get very small stakes in the companies, typically 0.005%-1%.
-    - IMO there's 4 ways to get bigger stakes in a company: a) if you get in super super early, that is at founding stage, before any product or a company is even formed; b) you know the founders well and they let you in after the company gets started, but at foundation (angel round) or pre-seed/ seed round; c) you are going to be part of the journey as an advisor or as a Board Member, which typically entitles you to some stock; d) you are a well-known person in the industry and the company benefits from your participation, even if it's light.
+- For investments, the amounts I put in are $10k or less, with a couple of exceptions. These are small amounts for startups, and it means that I get very small stakes in the companies, typically 0.005%-1%.
+- There's 3 ways to get bigger stakes in a company: a) you know the founders well and they let you in very early, just before or just after the company gets started. You participate in a pre-seed/ seed round; c) you are going to be part of the journey as an advisor or as a Board Member, which typically means that you have an agreeement that entitles you to some stock; d) you are a well-known person in the industry and the company benefits from your participation, even if it's a light participation.
