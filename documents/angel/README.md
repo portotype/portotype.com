@@ -29,7 +29,7 @@ How do I invest?
     - Personal investments are old investments I made as Humberto, the person. 
     - Structured investments are all the newer investments I've done via my micro investments company (Portotype).
     - Agreements are situations where I have not directly investment money, and I get shared because of my Angel activity:
-        - In some companies, I get shares for being an Advisor or a Board Member. Many conditions may apply to these shares, including vesting.
+        - In some companies, I get shares for being an Advisor or a Board Member. Conditions apply to these shares, including vesting.
         - For the companies that say "via Accel Starters", this is an investment through the Accel Starters scouting program. There, I don't actually sign the investment; I just indicate the companies, and Accel invests. I will get my share of the total return of the investment between all scouts. If Accel invests more in these companies later, I may earn a small carry. All the return that I get is via Portotype.
         - Then there's other programs, where I gain some carry on investments through other mechanics.    
 - Generally I invest very little money like $10k or less, with a couple of exceptions like the Accel Starters program. 
