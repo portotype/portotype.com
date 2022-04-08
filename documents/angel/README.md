@@ -24,3 +24,14 @@ Programs
 - [Accel](https://accel.com): Accel Starters is a scouting initiative. I have been part of the program for the 2020 and 2021 initiatives.
 - [Shilling](https://shilling.vc): Shilling's Founders Fund has a profit sharing model for founders of the companies they invest in. So, I have some carry in that fund. 
 
+How do I invest?
+- I have stock in startups via 3 mechanisms: personal investments, holding investments, and agreements.
+    - Personal investments are old investments I made myself (Humberto, the person). 
+    - Structured investments are all the newer investments I've done via my micro investments company (Portotype).
+    - Agreements are situations where I have not directly investment money, but where my Angel activity can return shares in these companies:
+        - In other companies, I get shares for being an Advisor or a Board Member. Many conditions may apply to these shares, including vesting.
+        - For the companies that say "via Accel Starters", this is an investment through the Accel Starters scouting program. There, I don't actually sign the investment; I just indicate the companies, and Accel invests. I will get my share of the total return of the investment between all scouts. If Accel invests more in these companies later, I may earn a small carry. All the return that I get is via Portotype.
+        - Then there's other programs, where I gain some carry on investments through other mechanics.    
+- Generally I invest very little money like $10k or less, with a couple of exceptions like the Accel Starters program. 
+    - This means that I get very small stakes in the companies, typically 0.005%-1%.
+    - IMO there's 4 ways to get more stock in a round: a) if you get in super super early, that is at founding stage, before any product or a company is even formed; b) you know the founders well and they let you in after the company gets started, but at foundation (angel round) or pre-seed/ seed round; c) you are going to be part of the journey as an advisor or as a Board Member, which typically entitles you to some stock; d) you are a well-known person in the industry and the company benefits from even your participation, even if it's light.
