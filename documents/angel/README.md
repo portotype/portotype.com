@@ -18,7 +18,9 @@ Investment activity (chronological)
 - [Smartex.ai](https://smartex.ai): Series-A investor via Accel Starters.
 - [Cowboy.com](https://cowboy.com): Series-C investor via Crowdfunding. Tiny stake.
 - [Zaplib.com](https://zaplib.com): Pre-Seed investor (pooled).
-- [FileCream.com](https://filecream.com): Pre-Seed investor.
+- [FileCream.com](https://filecream.com): Pre-Seed investor. Seed investor via Accel Starters.
+- [TBD](TBD): TBA.
+- [TBD](TBD): TBA.
 
 Programs
 - [Accel](https://accel.com): Accel Starters is a scouting initiative. I have been part of the program for the 2020 and 2021 initiatives.
