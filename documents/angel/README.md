@@ -5,7 +5,8 @@ Investment activity (chronological)
 - [Replai.io](https://replai.io): Seed investor. Advisor. Series-A investor via Accel Starters.
 - [Frond.com](https://frond.com): Seed investor.
 - [SalesLayer.com](https://saleslayer.com): Independent board member. Advisor.
-- [Super-Agent.com](https://super-agent.com): Investor at incorporation. Chairman. Board member.
+- [Super-Agent.com](https://super-agent.com): Investor at incorporation. Chairman. Board member. Seed investor via Accel Starters.
+- [Maven.pet](https://maven.pet): Seed investor via Accel Starters.
 - [Weld.so](https://weld.so): Seed investor.
 - [June.so](https://june.so): Seed investor.
 - [Vawlt.io](https://vawlt.io): Seed investor via Accel Starters. 
