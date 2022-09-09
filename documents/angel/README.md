@@ -21,7 +21,6 @@ Investment activity (chronological)
 - [Zaplib.com](https://zaplib.com): Pre-Seed investor (pooled). Company is now closed.
 - [Puter.com](https://puter.com): Pre-Seed investor. Seed investor via Accel Starters.
 - [Framedrop.co](https://framedrop.co): Pre-Seed investor via Accel Starters.
-- [Tokenstreet.com](https://tokenstreet.com): Seed investor via Accel Starters.
 
 ---
 
