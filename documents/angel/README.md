@@ -19,7 +19,7 @@ Investment activity (chronological)
 - [Smartex.ai](https://smartex.ai): Series-A investor via Accel Starters.
 - [Cowboy.com](https://cowboy.com): Series-C investor via Crowdfunding. Tiny stake.
 - [Zaplib.com](https://zaplib.com): Pre-Seed investor (pooled). Company is now closed.
-- [Puter.com](https://puter.com): Pre-Seed investor. Seed investor via Accel Starters.
+- [Puter.com](https://puter.com): Pre-Seed investor. Pre-Seed investor. And Seed investor via Accel Starters.
 - [Framedrop.co](https://framedrop.co): Pre-Seed investor via Accel Starters.
 - [Kombo.dev](Kombo.dev): Seed investor via Accel Starters.
 - [userled.io](https://www.userled.io): Seed investor for Accel Starters.
