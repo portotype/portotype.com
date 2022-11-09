@@ -22,7 +22,7 @@ Investment activity (chronological)
 - [Puter.com](https://puter.com): Pre-Seed investor. Seed investor via Accel Starters.
 - [Framedrop.co](https://framedrop.co): Pre-Seed investor via Accel Starters.
 - [Kombo.dev](Kombo.dev): Seed investor via Accel Starters.
-- [XXX](): XXX (Pending).
+- [userled.io](https://www.userled.io): Seed investor for Accel Starters.
 - [XXX](): XXX (Pending).
 
 ---
