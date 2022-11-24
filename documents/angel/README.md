@@ -1,29 +1,31 @@
 Investment activity (chronological)
 
-- [AirCourts.com](https://aircourts.com): Co-founder. Invested at incorporation. Board member.
-- [Rows.com](https://rows.com): Co-founder. Investor at incorporation. CEO. Board member.
-- [Replai.io](https://replai.io): Seed investor. Advisor. Series-A investor via Accel Starters.
-- [Frond.com](https://frond.com): Seed investor.
-- [SalesLayer.com](https://saleslayer.com): Independent board member. Advisor.
-- [Super-Agent.com](https://super-agent.com): Investor at incorporation. Chairman. Board member. Seed investor via Accel Starters.
-- [Maven.pet](https://maven.pet): Seed investor via Accel Starters.
-- [Weld.so](https://weld.so): Seed investor.
-- [June.so](https://june.so): Seed investor.
-- [Vawlt.io](https://vawlt.io): Seed investor via Accel Starters. 
-- [Attio.com](https://attio.com): Seed investor via Accel Starters.
-- [Coverflex.com](https://coverflex.com): Investor in the bridge to Series-A, via Accel Starters.
-- [Pipelaunch.com](https://pipelaunch.com): Pre-Seed investor via Accel Starters.
-- [Datafordeals.com](https://datafordeals.com): Pre-Seed investor via Accel Starters.
-- [Relive.pt](https://relive.pt): Seed investor via Accel Starters.
-- [Oscar-app.com](https://oscar-app.com): Seed investor via Accel Starters.
-- [Smartex.ai](https://smartex.ai): Series-A investor via Accel Starters.
-- [Cowboy.com](https://cowboy.com): Series-C investor via Crowdfunding. Tiny stake.
-- [Zaplib.com](https://zaplib.com): Pre-Seed investor (pooled). Company is now closed.
-- [Puter.com](https://puter.com): Pre-Seed investor. Investor in bridge to Seed. And investor in bridge to See via Accel Starters.
-- [Framedrop.co](https://framedrop.co): Pre-Seed investor via Accel Starters.
-- [Kombo.dev](Kombo.dev): Seed investor via Accel Starters.
-- [userled.io](https://www.userled.io): Seed investor for Accel Starters.
-- [XXX](): XXX (Pending).
+1. [AirCourts.com](https://aircourts.com): Co-founder. Invested at incorporation. Board member.
+1. [Rows.com](https://rows.com): Co-founder. Investor at incorporation. CEO. Board member.
+1. [Replai.io](https://replai.io): Seed investor. Advisor. Series-A investor via Accel Starters.
+1. [Frond.com](https://frond.com): Seed investor.
+1. [SalesLayer.com](https://saleslayer.com): Independent board member. Advisor.
+1. [Super-Agent.com](https://super-agent.com): Investor at incorporation. Chairman. Board member. Seed investor via Accel Starters.
+1. [Maven.pet](https://maven.pet): Seed investor via Accel Starters.
+1. [Weld.so](https://weld.so): Seed investor.
+1. [June.so](https://june.so): Seed investor.
+1. [Vawlt.io](https://vawlt.io): Seed investor via Accel Starters. 
+1. [Attio.com](https://attio.com): Seed investor via Accel Starters.
+1. [Coverflex.com](https://coverflex.com): Investor in the bridge to Series-A, via Accel Starters.
+1. [Pipelaunch.com](https://pipelaunch.com): Pre-Seed investor via Accel Starters.
+1. [Datafordeals.com](https://datafordeals.com): Pre-Seed investor via Accel Starters.
+1. [Relive.pt](https://relive.pt): Seed investor via Accel Starters.
+1. [Oscar-app.com](https://oscar-app.com): Seed investor via Accel Starters.
+1. [Smartex.ai](https://smartex.ai): Series-A investor via Accel Starters.
+1. [Cowboy.com](https://cowboy.com): Series-C investor via Crowdfunding. Tiny stake.
+1. [Zaplib.com](https://zaplib.com): Pre-Seed investor (pooled). Company is now closed.
+1. [Puter.com](https://puter.com): Pre-Seed investor. Investor in bridge to Seed. And investor in bridge to See via Accel Starters.
+1. [Framedrop.co](https://framedrop.co): Pre-Seed investor via Accel Starters.
+1. [Kombo.dev](Kombo.dev): Seed investor via Accel Starters.
+1. [userled.io](https://www.userled.io): Seed investor for Accel Starters.
+1. [mycelial.com](https://mycelial.com): Safe Investor via Accel Starters.
+1. [xxx](): TBD
+1. [xxx](): TBA
 
 ---
 
