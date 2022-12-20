@@ -8,9 +8,10 @@ Potentially for sale
 | Place  | praiadocarvalhal.com  |   $3k | beach in the south of portugal.                                                                 |
 | Place  | vilapraiadeancora.com |   $5k | town in the north of portugal.                                                                  |
 | Tech   | codedown.org          |   $2k | code + markdown.                                                                                |
+| Other  | estudasses.com        |   $1k | fun reference.                                                                                  |
 | Other  | escamado.com          |  $500 | fish term in portuguese.                                                                        |
 | Other  | foodtypes.org         |   $2k | -                                                                                               |
-| Other  | forrobodo.com         |   $5k | loud, messy party. disorderly.
+| Other  | forrobodo.com         |   $5k | loud, messy party. disorderly.                                                                  |
 | Other  | patife.com            |  $25k | rascal in Portuguese. also have the twitter handle @patife.                                     |
 | Other  | polex.org             |   $2k | politics + exchange.                                                                            |
 
