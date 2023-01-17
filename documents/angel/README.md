@@ -11,7 +11,7 @@ Investment activity (chronological)
 1. [June.so](https://june.so): Seed investor.
 1. [Vawlt.io](https://vawlt.io): Seed investor via Accel Starters. 
 1. [Attio.com](https://attio.com): Seed investor via Accel Starters.
-1. [Coverflex.com](https://coverflex.com): Investor in the bridge to Series-A, via Accel Starters.
+1. [Coverflex.com](https://coverflex.com): Investor in the bridge to Series-A, via Accel Starters. Series-A investor.
 1. [Pipelaunch.com](https://pipelaunch.com): Pre-Seed investor via Accel Starters.
 1. [Datafordeals.com](https://datafordeals.com): Pre-Seed investor via Accel Starters.
 1. [Relive.pt](https://relive.pt): Seed investor via Accel Starters.
