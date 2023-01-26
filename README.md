@@ -1,10 +1,10 @@
 <img src="about/brand/logo-vertical-white-on-black.jpg" alt="portotype-logo" width="50%"/>  
 
-[My angel investments](/angel/)  
+[Angel investments](/angel/)  
 [Guide to tech companies](/guide/)  
-[Thesis for tech businesses](/docs/)  
-[My domains (for future business)](/domains/)  
-[What is Portotype](/about)  
+[Thesis](/thesis/)  
+[Web domains](/domains/)  
+[About](/about)  
 
 -
 
