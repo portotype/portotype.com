@@ -1,9 +1,9 @@
 <img src="about/brand/logo-vertical-white-on-black.jpg" alt="portotype-logo" width="50%"/>  
 
 [Angel investments](/angel/)  
-[Guide to tech companies](/guide/)  
+[Domain investments](/domains/)  
+[Building guide](/guide/)  
 [Thesis](/thesis/)  
-[Web domains](/domains/)  
 [About](/about)  
 
 -
