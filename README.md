@@ -5,6 +5,9 @@
 [Domains](/domains/)  
 [About Portotype](/about)  
 
-Portotype is from Porto.
-Portotype builds tech.  
+-
+
+Portotype is from Porto.  
+Portotype is about tech.  
 Portotype invests in tech.  
+Portotype builds tech.  
