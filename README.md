@@ -1,7 +1,6 @@
-<img src="documents/brand/logo-vertical-white-on-black.jpg" alt="portotype-logo" width="50%"/>  
+<img src="about/brand/logo-vertical-white-on-black.jpg" alt="portotype-logo" width="50%"/>  
 
-[Angel activity](/documents/angel/)  
-[Domains](/documents/domains/)  
-[Blog](https://berto.com)  
-[Q&A](/docs/)
-[About](/documents/about)  
+[Angel Investments](/angel/)  
+[Building tech businesses](/docs/)
+[Domains](/domains/)  
+[About Portotype](/about)  
