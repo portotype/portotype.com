@@ -3,5 +3,5 @@
 [Angel activity](/documents/angel/)  
 [Domains](/documents/domains/)  
 [Blog](https://berto.com)  
-[Q&A](/documents/definitions/)  
+[Q&A](/docs/)
 [About](/documents/about)  
