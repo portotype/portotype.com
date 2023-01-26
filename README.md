@@ -1,13 +1,14 @@
 <img src="about/brand/logo-vertical-white-on-black.jpg" alt="portotype-logo" width="50%"/>  
 
-[Angel investments](/angel/)  
-[Building tech businesses](/docs/)  
-[Domains](/domains/)  
-[About Portotype](/about)  
+[My angel investments](/angel/)  
+[Guide to tech companies](/guide/)  
+[Thesis for tech businesses](/docs/)  
+[My domains (for future business)](/domains/)  
+[What is Portotype](/about)  
 
 -
 
 Portotype is from Porto.  
-Portotype is about tech.  
+Portotype likes technology.  
 Portotype invests in tech.  
 Portotype builds tech.  
