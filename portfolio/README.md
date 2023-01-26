@@ -27,6 +27,7 @@ Investment activity (chronological)
 1. [xxx](): TBD
 1. [xxx](): TBA
 
+I also invest in [.com domains](../domains/).
 ---
 
 How I invest:
