@@ -1,5 +1,3 @@
-Thesis
-
 - [Intercom for X](2023-01-24-Intercom-for-X-thesis.md) ★
 - [Full-stack Markdown](2022-03-01-full-stack-markdown.md) ★
 - [CELFEEs](2022-02-14-CELFEEs.md) ★
