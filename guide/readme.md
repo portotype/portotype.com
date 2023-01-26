@@ -1,6 +1,10 @@
 ### The Guide 
 
-This guide is my memory on building companies. It's a mix between how I have set up my businesses and how I would set them up next. There are many successful companies built in lots of different ways. This is my way 🤷‍♂️.
+This guide is my memory on building companies. 
+90% of this is a description of how I did it in the past.
+10% is obvious improvements that I saw while doing it. 
+There are many successful companies built in lots of different ways. 
+🤷‍♂️
 
 - Structuring a company
     - [teams](2018-05-06-teams.md) ★
