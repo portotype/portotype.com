@@ -5,9 +5,4 @@
 [Building guide](/guide/)  
 [About](/about)  
 
---
-
-Portotype is from Porto.  
-Portotype likes technology.  
-Portotype invests in tech.  
-Portotype builds tech.  
+Porto + Technology.
