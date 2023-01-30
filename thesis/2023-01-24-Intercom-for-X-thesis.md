@@ -2,7 +2,7 @@
 
 ### The thesis
 
-I believe that we will see the emergence of many Intercom-style applications. That is, Plug'n'play, Domain SaaS.
+I believe that we will see the emergence of many Intercom-style applications. That is, plug'n'play SaaS sw that augments your software in a full-stack way, in a particular feature domain, which means that it will offer features that connect directly to the user, a back-office for saas operators, APIs, etc.
 
 Competition within software categories is growing. On top of that, users increasingly demand top notch, custom experiences. As a result, companies must offer best-in-class solutions to their users AND at the same time they have to test variations and adaptations of those features to their specific needs.
 
@@ -45,6 +45,7 @@ Speed. With Intercom, marketing operates at the speed of marketing, not at the s
 - APIs are great, but take a long time to understand and integrate.
 - Headless systems require lots of frontend code and UX solutions.
 - Full SaaS offerings aren't costumizable enough and you're giving some platform all your data and your clients too.
+- Plug-ins latch on to particular platforms and are very custom. They're also constrained in the powers they can offer which limits scope.
 - Building it yourself is expensive and slow.
 
 ### More observations
