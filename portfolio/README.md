@@ -24,9 +24,8 @@
 1. [Kombo.dev](Kombo.dev): Seed investor via Accel Starters.
 1. [userled.io](https://www.userled.io): Seed investor via Accel Starters.
 1. [mycelial.com](https://mycelial.com): Safe Investor via Accel Starters.
-1. [xxx](): TBD
-1. [xxx](): TBA
-
+1. [mycareforce.co](https://mycareforce.co): Accel Starters.
+1. [tably.com](https://tably.com): Accel starters.
 
 ### How I invest
 
