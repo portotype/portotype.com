@@ -13,6 +13,7 @@ There are many successful companies built in lots of different ways.
     - [measuring success with cohorts](2015-04-08-measuring-success-with-cohorts.md) ★
     - [creating surveys](2015-07-26-creating-surveys.md)
 - Building Products
+    - [Speed & Quality](2023-05-09-the-best-that-can-happen.md) 
     - [project management](2016-04-17-project-management.md)
     - [the must-have complex](2015-08-31-the-must-have-complex.md)
     - [pivoting](2015-03-19-pivoting.md)
