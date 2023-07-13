@@ -28,12 +28,5 @@ Ideas
 - [Legal presentation by Bot]()
 - [Intercom for subscriptions]()
 - [PIGS]()
-
-
-
-
-
-
-
-
+- [Product Waterfalls](/2023-07-13-product-waterfalls.md)
 
