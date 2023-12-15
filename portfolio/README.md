@@ -19,7 +19,7 @@
 1. [Smartex.ai](https://smartex.ai): Series-A investor via Accel Starters.
 1. [Cowboy.com](https://cowboy.com): Series-C investor via Crowdfunding. Tiny stake.
 1. [Zaplib.com](https://zaplib.com): Pre-Seed investor (pooled). Company is now closed.
-1. [Puter.com](https://puter.com): Pre-Seed investor. Investor in bridge to Seed. And investor in bridge to Seed via Accel Starters.
+1. [Puter.com](https://puter.com): Pre-Seed investor. Investor in bridge to Seed. Investor in bridge to Seed via Accel Starters and via Schilling Scouting.
 1. [Framedrop.co](https://framedrop.co): Pre-Seed investor via Accel Starters.
 1. [Kombo.dev](Kombo.dev): Seed investor via Accel Starters.
 1. [userled.io](https://www.userled.io): Seed investor via Accel Starters.
@@ -33,8 +33,8 @@ I invest mostly in topics close to my interests: software that helps its users b
 
 Technically, I hold stock in startups via investments and agreements, sometimes both. 
 - Investments are situations where I directly invested money. I give cash, I get shares. I usually put in $10k, with a few rare exceptions.
-- Agreements are situations where I get shares or the economic benefit of shared because of my involvement.
-    - Scouting agreements reward me for helping a VC find good investments. I don't actually sign the investment or send them money. Instead, I propose interesting companies and VCs invest. I may get a return if the company is successful. In my Portfolio, "Accel Starters" is a scouting program. The amounts are typically $20-30k.
+- Agreements are situations where I get shares or the economic benefit of shares because of my involvement.
+    - Scouting agreements reward me for helping a VC find good investments. I don't actually sign the investment or send them money. Instead, I propose interesting companies and VCs invest. I may get a return if the company is successful. In my Portfolio, "Accel Starters" is a scouting program from Accel.com with amounts typically $20-30k. "Shilling Scouting" is the scouting program from Shilling.vc, where there's a more traditional recommendation. 
     - Advisor agreements are those that reward me with shares for helping a company or being a Board Member; conditions apply to these shares, including vesting, and I can be "let go" of the agreement. It depends a lot, but I've seen advisors get 0.05%-0.4% depending on when they join.
 
 I made my first investments as Humberto (the person) and I now make investments as via my micro investment company (Portotype).
@@ -43,4 +43,4 @@ I made my first investments as Humberto (the person) and I now make investments 
 
 - Domains. I buy a few [.com domains](../domains/) for my projects, occasionally sell them too. 
 - Tech news. I collect newspapers and print publications regarding big technology moments.
-- Memes. I collect comic prints, mostly printed, signed and/or numbered memes. They are an inspiration and it's good to give back to creators.
+- Memes. I collect comic prints, mostly printed, signed and/or numbered memes. They are an inspiration and a reminder of the power of internet communication and art on the internet.
