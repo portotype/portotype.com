@@ -51,6 +51,7 @@ Speed. With Intercom, marketing operates at the speed of marketing, not at the s
 ### More observations
 
 Some newer players operate here:
+- (the ancient) Google Analytics! 
 - (the original) Intercom.com: add custom touch points with your customer.
 - Cord.com: add collaboration to your product.
 - MagicBell.com: add notifications to your product.
@@ -63,5 +64,15 @@ Some of the players start with low-investment integrations (1hour or less) which
     - Tables, Spreadsheets, Data
     - Freeform components
     - Video
+- "Intercom for" standard features
+    - Collaboration
+    - Alerts and Notifications     
 - "Intercom for" the Marketing stack
-    - Subscriptions
+    - Translation of homepage
+    - Growth marketing (splash screens, nudges)
+    - Notifications systems
+    - Subscription management
+    - Release notes
+    - Analytics
+    - Session recording
+
