@@ -11,7 +11,7 @@ Theses
 
 Ideas  
 - [company photos](2021-08-21-company-photos.md)
-- [crypto-cam; verified media](2022-09-07-crypto-cam.md)
+- [crypto-cam; verified media](2022-02-10-crypto-cam.md)
 - [(PT) Minutes register (Livro de Atas online)]()
 - [All the Payments]()
 - [Intercom for subscriptions]()
