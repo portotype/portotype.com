@@ -10,6 +10,7 @@ Theses
 - [ephemeral vs persistent](2015-04-19-ephemeral-vs-persistent-products.md) 
 
 Ideas  
+- [AI Web Worker](2024-11-21-AI-web-worker.md)
 - [company photos](2021-08-21-company-photos.md)
 - [crypto-cam; verified media](2022-02-10-crypto-cam.md)
 - [(PT) Minutes register (Livro de Atas online)]()
