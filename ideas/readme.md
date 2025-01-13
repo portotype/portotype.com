@@ -15,7 +15,7 @@ Ideas
 - [crypto-cam; verified media](2022-02-10-crypto-cam.md)
 - [(PT) Minutes register (Livro de Atas online)]()
 - [All the Payments]()
-- [Intercom for subscriptions]()
+- [Intercom for subscriptions](2025-01-13-intercom-for-subscriptions.md)
 - [Intercom for data]()
 - [Link tracker]()
 - [Triangular development]()
