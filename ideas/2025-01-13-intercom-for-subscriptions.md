@@ -1,4 +1,4 @@
-## Intercom for Payments
+# Intercom for Payments
 
 ## What
 
