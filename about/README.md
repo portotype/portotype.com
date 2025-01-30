@@ -6,5 +6,5 @@ This is the website of the company Portotype.
 
 Logo by [João Machado Aires](https://www.instagram.com/joao_m_aires/), painter/ digital artist.
 
-© 2021-2023 Portotype
+© 2021-2025 Portotype
 
