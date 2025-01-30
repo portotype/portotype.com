@@ -1,3 +1,5 @@
+# Link Tracker
+
 ### problem 
 
 - links are the key element of the internet.
@@ -17,6 +19,8 @@
     - a business manager wants to know if their competitor changed something in the website. if a certain github card has been closed. if a powerpoint is completed or some analytics property changed. you add those links to the app and voilá.
 - hiring
     - you want to check if a person changed their status on linkedin. you add the link.
+- fans
+    - keep track of when Apple releases new products, when your team scores a goal, when a product is back in stock.
 
 ### approach
 
