@@ -17,7 +17,7 @@ Ideas
 - [All the Payments]()
 - [Intercom for subscriptions](2025-01-13-intercom-for-subscriptions.md)
 - [Intercom for data]()
-- [Link tracker]()
+- [Link tracker](2022-06-11-link-tracker.md)
 - [Triangular development]()
 - [Stripe Atlas for Europe]()
 - [Tri-motor e-bicycle]()
