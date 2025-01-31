@@ -21,7 +21,7 @@
 | 18 | [Smartex.ai](https://smartex.ai) | Invested in Series-A round via Accel Starters. | WIP |
 | 19 | [Cowboy.com](https://cowboy.com) | Invested in Series-C round via Crowdfunding. Super-tiny stake. | WIP | 
 | 20 | [Zaplib.com](https://zaplib.com) | Invested in Pre-Seed round (pooled). | ⚪️ Closed |
-| 21 | [Puter.com](https://puter.com) | Invested in Pre-Seed round. Invested in bridge to Seed round. Invested in bridge to Seed via Accel Starters and via Schilling Scouting. | WIP |
+| 21 | [Puter.com](https://puter.com) | Invested in Pre-Seed round. Invested in bridge to Seed round. Invested in bridge to Seed via Accel Starters and via Shilling Scouting. | WIP |
 | 22 | [Framedrop.co](https://framedrop.co) | Invested in Pre-Seed round via Accel Starters. | WIP | 
 | 23 | [Kombo.dev](Kombo.dev) | Invested in Seed round via Accel Starters. | WIP |
 | 24 | [userled.io](https://www.userled.io) | Invested in Seed via Accel Starters. | WIP |
