@@ -25,7 +25,7 @@
 | 22 | [Framedrop.co](https://framedrop.co) | Invested in Pre-Seed round via Accel Starters. | WIP | 
 | 23 | [Kombo.dev](Kombo.dev) | Invested in Seed round via Accel Starters. | WIP |
 | 24 | [userled.io](https://www.userled.io) | Invested in Seed via Accel Starters. | WIP |
-| 25 | [mycelial.com](https://mycelial.com) | Invested in Safe via Accel Starters. | WIP |
+| 25 | [mycelial.com](https://mycelial.com) | Invested in Safe via Accel Starters. | ⚪️ Closed |
 | 26 | [mycareforce.co](https://mycareforce.co) | Invested via Accel Starters. | WIP |
 | 27 | [tably.com](https://tably.com) | Invested via Accel starters. | WIP |
 
