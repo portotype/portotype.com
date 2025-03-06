@@ -6,32 +6,22 @@ This guide is my memory on building companies.
 There are many successful companies built in lots of different ways. 
 🤷‍♂️
 
-- Structuring a company
-    - [teams](2018-05-06-teams.md) ★
-- Metrics
-    - [leading and lagging indicators](2015-03-08-leading-and-lagging-indicators.md)
-    - [measuring success with cohorts](2015-04-08-measuring-success-with-cohorts.md) ★
-    - [creating surveys](2015-07-26-creating-surveys.md)
 - Building Products
-    - [speed & quality](2023-05-09-the-best-that-can-happen.md) 
+    - [teams](2018-05-06-teams.md) ★
     - [project management](2016-04-17-project-management.md)
-    - [the must-have complex](2015-08-31-the-must-have-complex.md)
-    - [pivoting](2015-03-19-pivoting.md)
-- Interacting with others
-    - [understanding investors](2020-08-06-understanding-investors.md)
-    - [the 5 levels of support](2022-05-09-the-five-levels-of-support.md)
-- Marketing
     - [marketing messages](2019-03-12-marketing-messages.md)
     - [pricing](2016-04-23-pricing.md)
-- Personal skills
-    - [negative feedback](2022-10-30-negative-feedback.md) ★
-    - [communication principles](2015-04-04-communication-principles.md) ★
-    - [leading from the bottom of the org chart](2015-04-22-leading-from-the-bottom-of-the-org-chart.md)
+- Interacting with others
+    - warning: self-help BS content.
+    - [understanding investors](2020-08-06-understanding-investors.md)
+    - [the 5 levels of support](2022-05-09-the-five-levels-of-support.md)
+    - [communication principles](2015-04-04-communication-principles.md)
     - [be your own boss](2015-03-24-be-your-own-boss.md)
-    - [the MECE framework for thinking](2016-05-16-the-MECE-framework-for-thinking.md)
-- Legal stuff
     - [law and contracts](2015-06-19-law-and-contracts.md)
-
+    - [negative feedback](2022-10-30-negative-feedback.md)
+- Personal skills
+    - [measuring success with cohorts](2015-04-08-measuring-success-with-cohorts.md) ★
+    
 
 # Tech Lingo 
 
