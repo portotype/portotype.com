@@ -16,7 +16,7 @@ On the negative side, beware that a majority of investors:
 
 * Are very busy and spread too thin. They will forget what you tell them from meeting to meeting (sometimes within the meeting) and repeat questions a lot. 
 * Are insecure. Investing is hard, signaling is strong, and most suffer a lot from "me too" dynamics.
-* Are deal driven. Frequently, investors don't really understand or voice opinions on important tech trends. They want to get deals done.
+* Are driven by deals. Frequently, investors don't really understand or voice opinions on important tech trends. They want to get deals done.
 
 A minority of outstanding investors:
 
@@ -25,5 +25,4 @@ A minority of outstanding investors:
 * Have great taste.
 * Are opinionated and useful when benchmarking your business, qualitatively and quantitatively (like metrics). They'll tell you what doesn't need fixing, and what does.
 
-To be continued! 
 
