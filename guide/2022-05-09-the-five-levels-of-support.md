@@ -3,12 +3,12 @@
 Let's box support into 5 basic levels:
 
 1. Friends, Family & Fans: I’ll support you no matter what.
-2. Close business partners: If you do X, I’ll give you Y.
+2. Close business partners (most investors): If you do X, I’ll give you Y.
 3. Clients: Show me what you got, then I’ll decide.
 4. Disappointed: Unless you change X, I will leave.
 5. Lost: I want out.
 
-It's important to recognize which role you're playing and provide the correct level (or more!).
+It's important to recognize which role you're playing and provide the correct level (or more!). Don't expect 1, it's rare.
 
 That means being clear about the relationship and providing information.
 
