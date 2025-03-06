@@ -39,6 +39,7 @@ More
 # Inspiration
 
 - CoreFlux.org, which provides a MQTT service for IOT.
+- All the message queues sws like RabbitMQ, Apache Kafka, Pub/Sub.
 - UPS, where packages get delivered irrespective of who the sender is, what is inside the package, where the destination is. Address, message, send.
 - HTTP, which is a protocol for the web, but this would be like ASYNC HTTP, no matter who is on the other side, even if they're not online, you drop a message.. someone will get it.
 
