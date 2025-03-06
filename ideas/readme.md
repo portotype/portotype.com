@@ -1,5 +1,5 @@
 Ideas  
-- [Data UPS](2025-03-06-www-message-queue.md)
+- [Data UPS](2025-03-06-www-message-queue.md) 🆕
 - [Intercom for subscriptions](2025-01-13-intercom-for-subscriptions.md)
 - [AI Web Worker](2024-11-21-AI-web-worker.md)
 - [Product Waterfalls](/2023-07-13-product-waterfalls.md)
