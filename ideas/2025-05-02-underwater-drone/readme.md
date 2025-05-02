@@ -20,4 +20,12 @@ I think the same can be done in underwater tech.
 
 # Market and Business
 
-TBD.
+Potential use cases
+- Naval military exercises.
+- Naval Mine removal.
+- Infrastructure inspection.
+- Ship inspection.
+- Permanent-base use-cases. 
+- Recreational, for scuba, etc.
+- Shell collection, algaue and sea food harvesting.
+  
