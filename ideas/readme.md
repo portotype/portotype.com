@@ -1,4 +1,5 @@
 Ideas  
+- [The underwater drone](2025-05-02-underwater-drone/readme.md) 🆕
 - [The Machine World in Data](2025-05-02-OWID-Machine-world.md) 🆕
 - [Data UPS](2025-03-06-www-message-queue.md) 🆕
 - [Intercom for subscriptions](2025-01-13-intercom-for-subscriptions.md)
