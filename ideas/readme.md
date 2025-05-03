@@ -17,7 +17,7 @@ Ideas (2024)
 
 Ideas (2023)
 - [Product Waterfalls](/2023-07-13-product-waterfalls.md)
-- [Minutes Register (Livro de Atas online)](ideas/2023-04-18-livro-de-atas-online) 🔵
+- [Minutes Register (Livro de Atas online)](2023-04-18-livro-de-atas-online) 🔵
 
 Ideas (2022)
 - [Stripe Atlas for Europe](2022-06-14-stripe-atlas-for-europe/) 🔵
