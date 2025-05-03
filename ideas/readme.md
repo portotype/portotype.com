@@ -1,3 +1,9 @@
+Thesis
+- [Intercom for X](2023-01-24-Intercom-for-X-thesis.md): add 2 lines of code, and functionality is added by no-code/AI.
+- [AI as a build method](2023-03-14-AI-is-a-new-way-of-building.md): expose your runtime and users creations to AI.
+- [CELFEEs](2022-02-14-CELFEEs.md): Towards a cloud-enabled, local-first, E2E encrypted internet.
+- [the 120Hz experience](2021-10-18-the-120Hz-experience.md): the best experience is local.
+
 Ideas  
 - [The underwater drone](2025-05-02-underwater-drone/readme.md) 🆕
 - [The Machine World in Data](2025-05-02-OWID-Machine-world.md) 🆕
@@ -5,12 +11,8 @@ Ideas
 - [Intercom for subscriptions](2025-01-13-intercom-for-subscriptions.md)
 - [AI Web Worker](2024-11-21-AI-web-worker.md)
 - [Product Waterfalls](/2023-07-13-product-waterfalls.md)
-- [AI as a build method](2023-03-14-AI-is-a-new-way-of-building.md)
-- [Intercom for X](2023-01-24-Intercom-for-X-thesis.md)
 - [crypto-cam; verified media](2022-02-10-crypto-cam.md)
 - [Full-stack Markdown](2022-03-01-full-stack-markdown.md)
-- [CELFEEs](2022-02-14-CELFEEs.md)
-- [the 120Hz experience](2021-10-18-the-120Hz-experience.md)
 - [company photos](2021-08-21-company-photos.md)
 - [online retail positioning](2020-04-29-online-retail-positioning.md)
 - [trouble ahead for SaaS](2017-12-03-trouble-ahead-for-saas.md)
