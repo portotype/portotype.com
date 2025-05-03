@@ -1,11 +1,13 @@
 Thesis
-- [Intercom for X](2023-01-24-Intercom-for-X-thesis.md): add 2 lines of code, and any functionality is a no-code/AI action away.
-- [AI as a build method](2023-03-14-AI-is-a-new-way-of-building.md): in a AI world, open your business's language as code.
-- [Trouble ahead for SaaS](2017-12-03-trouble-ahead-for-saas.md): with more open-source and automation, you should pay less.
+- [Employment and the Internet](). 🆕
+- [AI as a build method](2023-03-14-AI-is-a-new-way-of-building.md): in a AI world, create and open your business's language "as code".
+- [Intercom for X](2023-01-24-Intercom-for-X-thesis.md): add 2 lines of code once, and every feature is a no-code/AI action away.
 - [CELFEEs](2022-02-14-CELFEEs.md): Towards a cloud-enabled, local-first, E2E encrypted internet.
 - [The 120Hz experience](2021-10-18-the-120Hz-experience.md): the best experience is local.
-- [Ephemeral vs persistent internet](2015-04-19-ephemeral-vs-persistent-products.md): balance news and knowledge.
-
+- [Trouble ahead for SaaS](2017-12-03-trouble-ahead-for-saas.md): with more open-source and automation, you should pay less.
+- [Ephemeral vs persistent internet](2015-04-19-ephemeral-vs-persistent-products.md): balance news and knowledge. 🆕
+- [Houses copy Businesses](). 🆕
+  
 Ideas (2025)
 - [The underwater drone](2025-05-02-underwater-drone/readme.md) 🆕
 - [The Machine World in Data](2025-05-02-OWID-Machine-world.md) 🆕
@@ -32,15 +34,11 @@ Ideas (2021)
 - [online retail positioning](2020-04-29-online-retail-positioning.md)
 - [perspective on unmanned vehicles](2017-02-25-perspective-on-unmanned-vehicles.md)
 
+ 
 Update
-- [Tri-motor e-bicycle]()
 - [UX history]()
-- [Data for X]()
-- [Shelves]()
 - [Web SDK]()
-- [AI App Studio]()
 - [Legal presentation by Bot]()
-- [Intercom for subscriptions]()
 - [PIGS]()
 
 
