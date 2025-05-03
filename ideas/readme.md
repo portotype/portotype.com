@@ -1,6 +1,6 @@
 Thesis
 - [Intercom for X](2023-01-24-Intercom-for-X-thesis.md): add 2 lines of code, and any functionality is a no-code/AI action away.
-- [AI as a build method](2023-03-14-AI-is-a-new-way-of-building.md): expose your runtime and users creations to AI.
+- [AI as a build method](2023-03-14-AI-is-a-new-way-of-building.md): in a AI world, open your business's language as code.
 - [Trouble ahead for SaaS](2017-12-03-trouble-ahead-for-saas.md): with more open-source and automation, you should pay less.
 - [CELFEEs](2022-02-14-CELFEEs.md): Towards a cloud-enabled, local-first, E2E encrypted internet.
 - [The 120Hz experience](2021-10-18-the-120Hz-experience.md): the best experience is local.
@@ -20,7 +20,7 @@ Ideas (2023)
 
 Ideas (2022)
 - [Link tracker](2022-06-11-link-tracker.md) 🆕
-- [All the Payments](2022-06-01-multi-country-payments-terminal) 🆕
+- [All the Payments](2022-06-01-multi-country-payments-terminal/) 🆕
 - [crypto-cam; verified media](2022-02-10-crypto-cam.md)
 - [Full-stack Markdown](2022-03-01-full-stack-markdown.md)
 
@@ -31,7 +31,6 @@ Ideas (2021)
 
 Update
 - [(PT) Minutes register (Livro de Atas online)]()
-
 - [Triangular development]()
 - [Stripe Atlas for Europe]()
 - [Tri-motor e-bicycle]()
