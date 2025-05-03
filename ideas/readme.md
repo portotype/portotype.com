@@ -19,6 +19,8 @@ Ideas (2023)
 - [Product Waterfalls](/2023-07-13-product-waterfalls.md)
 
 Ideas (2022)
+- [Link tracker](2022-06-11-link-tracker.md) 🆕
+- [All the Payments](2022-06-01-multi-country-payments-terminal) 🆕
 - [crypto-cam; verified media](2022-02-10-crypto-cam.md)
 - [Full-stack Markdown](2022-03-01-full-stack-markdown.md)
 
@@ -29,8 +31,7 @@ Ideas (2021)
 
 Update
 - [(PT) Minutes register (Livro de Atas online)]()
-- [All the Payments]()
-- [Link tracker](2022-06-11-link-tracker.md)
+
 - [Triangular development]()
 - [Stripe Atlas for Europe]()
 - [Tri-motor e-bicycle]()
