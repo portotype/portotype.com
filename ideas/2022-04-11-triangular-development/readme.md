@@ -4,6 +4,7 @@ A platform that leverages software development agencies and fractional CTOs/CPOs
 
 # problem
 
+There seem to be too many agencies and too few engineers solving problems.  
 - companies get constantly nagged by development agencies. those are local, from the same country, continent or global.
 - companies need build more features, faster, at a reasonable cost.
 - it's hard to commit to an agency given that you don't know people, you don't know if you can trust them, if it's going to work, etc.
@@ -27,3 +28,5 @@ A platform that leverages software development agencies and fractional CTOs/CPOs
 	- business owner
 	- provider of build solution (code, PRs, design)
 	- verifier/ maintainer of quality (can be BO or Provider or a third entity). Update: this is a fractional CTO/CPO of sorts.
+
+![image](imaga.png)
