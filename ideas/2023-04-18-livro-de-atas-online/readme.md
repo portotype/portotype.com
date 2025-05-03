@@ -10,6 +10,12 @@ An online book to register company the minutes of the meetings and resolutions, 
 - Fundamentally, those are very simple page-by-page documents, with truncated lines, numbered pages, signatures. Each ata needs to be sequential (numbered) and dated.
 - Tt is possible to have them as online versions, but there's not a good implementation.
 
+The benefits of having them online is easy:
+- time saving.
+- everyone gets instant access.
+- single source of truth.
+
+
 # Business
 
 Charge per page or per time saved or size of company (number of shareholders with access) perhaps.
