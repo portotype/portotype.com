@@ -2,7 +2,7 @@ My thesis for where the internet is going
 - 🆕 [Next-gen Work](2025-05-06-employment-in-the-age-of-the-internet). Home office, remote work and fractional jobs are killing employment.
 - [Business as code](2023-03-14-AI-is-a-new-way-of-building.md): make yours AI ready.
 - [Intercom for X](2023-01-24-Intercom-for-X-thesis.md): all you need is 2 lines of code.
-- [CELFEEs](2022-02-14-CELFEEs.md): cloud-enabled, local-first, encrypted apps.
+- [CELFEEs](2022-02-14-CELFEEs.md): give users freedom with cloud-enabled, local-first, encrypted apps.
 - [120Hz](2021-10-18-the-120Hz-experience.md): the best experience is local.
 - [Trouble ahead for SaaS](2017-12-03-trouble-ahead-for-saas.md): open-source & automation means cheaper software.
 - 🆕 [Ephemeral vs persistent internet](2015-04-19-ephemeral-vs-persistent-products.md): balance news and knowledge.
