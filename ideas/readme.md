@@ -1,5 +1,5 @@
 Thesis
-- [Employment and the Internet](2025-05-06-employment-in-the-age-of-the-internet). 🆕
+- [Employment and the Internet](2025-05-06-employment-in-the-age-of-the-internet). Remote, WFH, fractional jobs needs new employment. 🆕
 - [AI as a build method](2023-03-14-AI-is-a-new-way-of-building.md): in a AI world, create and open your business's language "as code".
 - [Intercom for X](2023-01-24-Intercom-for-X-thesis.md): add 2 lines of code once, and every feature is a no-code/AI action away.
 - [CELFEEs](2022-02-14-CELFEEs.md): Towards a cloud-enabled, local-first, E2E encrypted internet.
