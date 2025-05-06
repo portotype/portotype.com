@@ -1,10 +1,10 @@
 Thesis
-- [Employment and the Internet](2025-05-06-employment-in-the-age-of-the-internet). Remote, WFH, fractional jobs needs new employment. 🆕
-- [AI as a build method](2023-03-14-AI-is-a-new-way-of-building.md): in a AI world, create and open your business's language "as code".
-- [Intercom for X](2023-01-24-Intercom-for-X-thesis.md): add 2 lines of code once, and every feature is a no-code/AI action away.
-- [CELFEEs](2022-02-14-CELFEEs.md): Towards a cloud-enabled, local-first, E2E encrypted internet.
+- [Next-gen Work](2025-05-06-employment-in-the-age-of-the-internet). WFH, Remote, fractional are killing employment. 🆕
+- [Business as code](2023-03-14-AI-is-a-new-way-of-building.md): make it AI ready.
+- [Intercom for X](2023-01-24-Intercom-for-X-thesis.md): all you need is 2 lines of code.
+- [CELFEEs](2022-02-14-CELFEEs.md): cloud-enabled, local-first, E2E encrypted internet.
 - [The 120Hz experience](2021-10-18-the-120Hz-experience.md): the best experience is local.
-- [Trouble ahead for SaaS](2017-12-03-trouble-ahead-for-saas.md): with more open-source and automation, you should pay less.
+- [Trouble ahead for SaaS](2017-12-03-trouble-ahead-for-saas.md): open-source & automation means cheaper software.
 - [Ephemeral vs persistent internet](2015-04-19-ephemeral-vs-persistent-products.md): balance news and knowledge. 🆕
 - [Houses copy Businesses](). 🆕
   
