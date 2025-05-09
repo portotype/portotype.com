@@ -24,3 +24,16 @@ But there isnt one large, public avenue where you can consume this data.
 Our World in Data is a massive online publisher of Data on Humans, like Poverty, Health, Freedom.
 
 We need the same for the machine world.
+
+# structure
+
+main object
+- thinking machines (in general), the parallel to the person
+
+properties to be studied
+- computers (to be used by people; per type/ capability)
+- computers (to be used by computers, like a DAC, switches of a network)
+- electricity
+- chips (category, generation)
+- bandwidth (traffic; volume and types)
+- cost
