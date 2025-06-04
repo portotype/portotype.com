@@ -8,7 +8,7 @@ In an increasingly complex world, there's more and more computers and software.
 
 But there isnt one large, public avenue where you can consume this data. 
 
-- how many servers are there?
+- how many servers are there? how many GPUs? per country?
 - what is the wattage of each?
 - how many bots are there on social networks?
 - how smart are the algorithms based on standard testing?
@@ -29,6 +29,13 @@ We need the same for the machine world.
 
 main object
 - thinking machines (in general), the parallel to the person
+- start by the machines, what are the desirable things for a machine, and then breakdown into evolution, speed etc
+    - people health: general life expectancy, nutrition, diseases.
+    - machine health: ? age, obsolescence? 
+    - people wealth: GDP per capita, Gini
+    - machine wealth: value/ revenue per? market valuation of service?
+    - etc
+
 
 properties to be studied
 - computers (to be used by people; per type/ capability)
