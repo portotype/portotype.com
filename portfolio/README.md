@@ -10,7 +10,7 @@
 | 7  | [Super-Agent.com](https://super-agent.com) | Invested in incorporation round as co-founder to the CEO. CEO runs over all operations and I am a Board member and Chairman. Invested in Seed round via Accel Starters. | WIP | 
 | 8  | [Maven.pet](https://maven.pet) | Invested in Seed round via Accel Starters. | WIP |
 | 9  | [Weld.so](https://weld.so) | Invested in Seed round. | WIP |
-| 10 | [June.so](https://june.so) | Invested in Seed round. | WIP |
+| 10 | [June.so](https://june.so) | Invested in Seed round. | ⚪️ Closed |
 | 11 | [Vawlt.io](https://vawlt.io) | Invested in Seed round via Accel Starters. | WIP |
 | 12 | [Attio.com](https://attio.com) | Invested in Seed round via Accel Starters. | WIP |
 | 13 | [Coverflex.com](https://coverflex.com) | Invested in the bridge to Series-A, via Accel Starters. Invested in the Series-A. | WIP | 
