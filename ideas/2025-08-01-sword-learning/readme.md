@@ -1,0 +1,9 @@
+# Sword Learning 
+
+This idea uses the process of HealthCare company Sword Health to built a world-class Education company.
+
+# What it is
+
+Context: Sword Health is a very successful company that wants to fix pain. They started by offering an app that provides Musculoskeletal medicine (MSK). The app that guides users  through remote Physical Therapy sessions, supervised by actual therapists and doctors. The app evolved to use more and more AI, given doctors and therapists more data and more reach so that users can get the best care anywhere, anytime. They keep evolving their AI systems with lots of reasearch, patents and papers published in medical review magazines. They then expanded to other areas like Pelvic care, prevention, mental treatments, etc. They also provide huge incentives to customers, with outcome based pricing. They sell to everyone, B2C and B2B, but started out by selling directly to large companies (think of Pepsi) who have their own health service offerings, and who want to minimize employees with pain, downtime, and cost. The value of pain treatment, surgery or surgery prevention, downtime and health quality is a giganting intustry.
+
+Parallels: In Education, teachers are also the providers of education. The best education tools keeps evolving and it's hard to keep track. It's also hard to provide individual education to each person, anywhere: kids mostly get whatever the local schools offer. There is space for researchers to keep iterating on a digital offering that provides the best learning for students. The apps can be guided by AI too, and supervised by teachers. Like sword, you can also start selling directly to school groups, but also allow individual parents to subscribe. And just like them, you can start on a narrow area, say maths, or book reading, and then expand to other areas. 
