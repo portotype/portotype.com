@@ -9,7 +9,7 @@ My thesis for where the internet is going
 - [Houses copy Businesses]().
   
 Ideas (2025)
-- 🆕 [The underwater drone](2025-08-01-sword-learning/readme.md)
+- 🆕 [E-Learning like e-Health](2025-08-01-sword-learning/readme.md)
 - [The underwater drone](2025-05-02-underwater-drone/readme.md)
 - [The Machine World in Data](2025-05-02-OWID-Machine-world.md)
 - [Data UPS](2025-03-06-www-message-queue.md)
