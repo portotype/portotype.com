@@ -1,13 +1,13 @@
 ### Portfolio (chronological)
 
-| #  | Company | Details on Role and Investment | State |
+| #  | Company | Details of Investment | Status |
 | -- | :------ | :----------------------------- | :---- |
-| 1  | [AirCourts.com](https://aircourts.com) |  Co-founded the business with the CEO, André. When I started Rows I moved to a Board position and he took over operations. | 🟢 Acquired by Playtomic | 
+| 1  | [AirCourts.com](https://aircourts.com) |  Co-founded the business with the CEO, André. When I started Rows.com I moved to a Board position at AirCourts. André took over everything and made AirCourts a success. | 🟢 Acquired by Playtomic | 
 | 2  | [Rows.com](https://rows.com)           | Co-founded the business as CEO. Also a Board member. | WIP | 
 | 4  | [Replai.io](https://replai.io)         | Advisor to founders. Invested in Seed. Invested in Series A round via Accel Starters. | WIP |
 | 5  | [Frond.com](https://frond.com)         | Invested in Seed round. | ⚪️ Closed |
 | 6  | [SalesLayer.com](https://saleslayer.com) | Independent board member & Advisor. | WIP |
-| 7  | [Super-Agent.com](https://super-agent.com) | Invested in incorporation round as co-founder to the CEO. CEO runs over all operations and I am a Board member and Chairman. Invested in Seed round via Accel Starters. | WIP | 
+| 7  | [Super-Agent.com](https://super-agent.com) | Invested in incorporation as co-founder to the CEO. CEO Francisco runs the company, I am a Board member and Chairman. Invested in Seed round via Accel Starters. | WIP | 
 | 8  | [Maven.pet](https://maven.pet) | Invested in Seed round via Accel Starters. | WIP |
 | 9  | [Weld.so](https://weld.so) | Invested in Seed round. | WIP |
 | 10 | [June.so](https://june.so) | Invested in Seed round. | ⚪️ Closed |
