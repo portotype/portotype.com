@@ -28,7 +28,8 @@
 | 25 | [mycelial.com](https://mycelial.com) | Invested in Safe via Accel Starters. | ⚪️ Closed |
 | 26 | [mycareforce.co](https://mycareforce.co) | Invested via Accel Starters. | WIP |
 | 27 | [tably.com](https://tably.com) | Invested via Accel starters. | WIP |
-| 28 | tally | Invested in pre-seed SAFE. | WIP |
+| 28 | A.L. | Advisor. | WIP |
+| 29 | Tally | Invested in pre-seed SAFE. | WIP |
 
 ### How I invest
 
