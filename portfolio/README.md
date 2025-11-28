@@ -29,7 +29,7 @@
 | 26 | [mycareforce.co](https://mycareforce.co) | Invested via Accel Starters. | WIP |
 | 27 | [tably.com](https://tably.com) | Invested via Accel starters. | WIP |
 | 28 | [AugustaLabs.ai](https://www.augustalabs.ai/) | Advisor. | WIP |
-| 29 | Tally | Invested in pre-seed SAFE. | WIP |
+| 29 | [MyTally.io](https://mytally.io) | Invested in pre-seed SAFE. | WIP |
 
 ### How I invest
 
