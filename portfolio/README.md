@@ -30,9 +30,9 @@
 | 27 | [tably.com](https://tably.com) | Invested via Accel starters. | WIP |
 | 28 | [AugustaLabs.ai](https://www.augustalabs.ai/) | Advisor. | WIP |
 | 29 | [MyTally.io](https://mytally.io) | Invested in pre-seed SAFE. | WIP |
-| 30 | Supertable CRM | Invested in pre-SEED. Advisor. | WIP |
-| 31 | SpawnScript.com | Invested in pre-SEED. Advisor. | WIP |
-| 32 | Message Hub | Invested in pre-SEED. Advisor. | WIP |
+| 30 | Supertable CRM | Invested in foundation. | WIP |
+| 31 | SpawnScript.com | Invested in foundation. | WIP |
+| 32 | Message Hub | Invested in foundation. | WIP |
 
 ### How I invest
 
