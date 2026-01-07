@@ -1,4 +1,4 @@
-### Portfolio (chronological)
+### Portfolio
 
 | #  | Company | Details of Investment | Status |
 | -- | :------ | :----------------------------- | :---- |
