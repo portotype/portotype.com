@@ -36,16 +36,13 @@
 
 ### How I invest
 
-I invest mostly in topics close to my interests: software that helps its users be the hero; generally that means work and productivity software, and in particular the more technically powerful the software, the more I like it. Exceptions to this are startups of people in my direct network who I know well, including some local heroes in Porto (PT) and the Berlin (DE) ecosystems. 
+I invest mostly in topics close to my interests: software that helps its users be the hero; generally that means work and productivity software, and in particular the more technically powerful the software, the more I like it. 
 
 Technically, I hold stock in startups via investments and agreements, sometimes both. 
-- Investments are situations where I directly invested money. I give cash, I get shares. I usually put in $5-20k.
-- Scouting agreements reward me for helping a VC find good investments. I don't actually sign the investment or send them money. Instead, I propose interesting companies and VCs invest. I may get a return if the company is successful. In my Portfolio, "Accel Starters" is a scouting program from Accel.com, and each deal is typically $20-30k. "Shilling Scouting" is the scouting program from Shilling.vc, where I do a recommendation for investment, and get a benefit if the company does well. 
-- Advisor agreements are those that reward me with shares for helping a company or for being a Board Member; conditions apply to these shares, including vesting, and I can be "let go" of the agreement. These vary a lot, but I've seen advisors get 0.05%-0.5% depending on when they join.
-- My Personal investments are executed via my micro investment company (Portotype), but in the past I held the investments personally.
+- Investments are situations where I directly invested money. I give cash, I get shares. I usually put in $5-30k.
+- Scouting rewards me for helping a VC make good investments. In my Portfolio "Accel Starters" and "Shilling Scouting". Being an Advisor rewards me with shares for being a Board Member or help in other forms, likely on top of a role or investment.
 
 ### Other investments
 
 - Domains. I buy a few [.com domains](../domains/) for my projects, occasionally sell them too. 
-- Tech news. I collect newspapers and print publications regarding big technology moments.
-- Memes. I collect comic prints, mostly printed, signed and/or numbered memes. They are an inspiration and a reminder of the power of internet communication and art on the internet.
+- Memes and print News. I collect comic prints, mostly printed, signed and/or numbered memes. They are an inspiration and a reminder of the power of internet communication and art on the internet. I collect newspapers and print publications regarding big technology moments.
