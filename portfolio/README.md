@@ -39,7 +39,7 @@
 I invest mostly in topics close to my interests: software that helps its users be the hero; generally that means work and productivity software, and in particular the more technically powerful the software, the more I like it. 
 
 Technically, I hold stock in startups via investments and agreements, sometimes both. 
-- Investments are situations where I directly invested money. I give cash, I get shares. I usually put in $5-30k.
+- Investments are situations where I directly invested money. I give $5k-$30k cash, I get shares.
 - Scouting rewards me for helping a VC make good investments. In my Portfolio "Accel Starters" and "Shilling Scouting". Being an Advisor rewards me with shares for being a Board Member or help in other forms, likely on top of a role or investment.
 
 ### Other investments
