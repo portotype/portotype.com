@@ -1,7 +1,7 @@
 ### Portfolio
 
-| #  | Company | Details of Investment | Status |
-| -- | :------ | :----------------------------- | :---- |
+| Company | Details of Investment | Status |
+| :------ | :----------------------------- | :---- |
 | [AirCourts.com](https://aircourts.com) |  Co-founded the business with the CEO, André. When I started Rows.com I moved to a Board position at AirCourts. André took over everything and made AirCourts a success. | 🟢 Acquired by Playtomic | 
 | [Rows.com](https://rows.com)           | Co-founded the business as CEO. Also a Board member. | WIP | 
 | [Replai.io](https://replai.io)         | Advisor to founders. Invested in Seed. Invested in Series A round via Accel Starters. | WIP |
