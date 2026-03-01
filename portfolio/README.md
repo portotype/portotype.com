@@ -3,14 +3,14 @@
 | Company | Details of Investment | Status |
 | :------ | :----------------------------- | :---- |
 | [AirCourts](https://aircourts.com) |  Co-founded AirCourts. Moved to a Board position when I started Rows. The CEO, André, made it a success. | 🟢 Acquired by Playtomic | 
-| [Rows.com](https://rows.com)           | Co-founded the business as CEO. Board member. | WIP | 
+| [Rows.com](https://rows.com)           | Co-founded the business as CEO. Board member. | 🟢 Acquired by Superhuman. | 
 | [Replai](https://replai.io)         | Advisor to founders. Invested in Seed round. Invested in Series A round via Accel Starters. | WIP |
-| [Frondm](https://frond.com)         | Invested in Seed round. | ⚪️ Closed |
+| [Frond](https://frond.com)         | Invested in Seed round. | ⚫️ Closed |
 | [SalesLayer](https://saleslayer.com) | Independent board member & Advisor. | WIP |
 | [Super Agent](https://super-agent.com) | Co-founded Super Agent and invested during its incorporation. Invested in Seed round via Accel Starters. Currently, I'm a Board member and Chairman. | WIP | 
 | [Maven](https://maven.pet) | Invested in Seed round via Accel Starters. | WIP |
 | [Weld](https://weld.so) | Invested in Seed round. | WIP |
-| [June](https://june.so) | Invested in Seed round. | ⚪️ Closed |
+| [June](https://june.so) | Invested in Seed round. | ⚫️ Closed |
 | [Vawlt](https://vawlt.io) | Invested in Seed round via Accel Starters. | WIP |
 | [Attio](https://attio.com) | Invested in Seed round via Accel Starters. | WIP |
 | [Coverflex](https://coverflex.com) | Invested in the bridge to Series-A, via Accel Starters. Invested in the Series-A. | WIP | 
@@ -20,12 +20,12 @@
 | [Oscar app](https://oscar-app.com) | Invested in Seed round via Accel Starters. | WIP |
 | [Smartex](https://smartex.ai) | Invested in Series-A round via Accel Starters. | WIP |
 | [Cowboy](https://cowboy.com) | Invested in Series-C round via Crowdfunding. Super-tiny stake. | WIP | 
-| [Zaplib](https://zaplib.com) | Invested in Pre-Seed round. | ⚪️ Closed |
+| [Zaplib](https://zaplib.com) | Invested in Pre-Seed round. | ⚫️ Closed |
 | [Puter.com](https://puter.com) | Invested in Pre-Seed round. Invested in bridge to Seed round. Invested in bridge to Seed via Accel Starters and via Shilling Scouting. | WIP |
-| [Framedrop](https://framedrop.co) | Invested in Pre-Seed round via Accel Starters. | ⚪️ Closed | 
+| [Framedrop](https://framedrop.co) | Invested in Pre-Seed round via Accel Starters. | ⚫️ Closed | 
 | [Kombo](Kombo.dev) | Invested in Seed round via Accel Starters. | WIP |
 | [userled](https://www.userled.io) | Invested in Seed via Accel Starters. | WIP |
-| [mycelial](https://mycelial.com) | Invested in Safe via Accel Starters. | ⚪️ Closed |
+| [mycelial](https://mycelial.com) | Invested in Safe via Accel Starters. | ⚫️ Closed |
 | [mycareforce](https://mycareforce.co) | Invested via Accel Starters. | WIP |
 | [tably.com](https://tably.com) | Invested via Accel starters. | WIP |
 | [AugustaLabs](https://www.augustalabs.ai/) | Advisor. | WIP |
