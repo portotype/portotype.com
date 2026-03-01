@@ -2,8 +2,8 @@
 
 | Company | Details of Investment | Status |
 | :------ | :----------------------------- | :---- |
-| [AirCourts](https://aircourts.com) |  Co-founded AirCourts. Moved to a Board position when I started Rows. The CEO, André, made it a success. | 🟢 Sold to Playtomic | 
-| [Rows.com](https://rows.com)           | Co-founded the business as CEO. Board member. | 🟢 Sold to Superhuman | 
+| [AirCourts](https://aircourts.com) |  Co-founded AirCourts. Moved to a Board position when I started Rows. The CEO, André, made it a success. | 🟢 Acquired | 
+| [Rows.com](https://rows.com)           | Co-founded the business as CEO. Board member. | 🟢 Acquired | 
 | [Replai](https://replai.io)         | Advisor to founders. Invested in Seed round. Invested in Series A round via Accel Starters. | WIP |
 | [Frond](https://frond.com)         | Invested in Seed round. | ⚫️ Closed |
 | [SalesLayer](https://saleslayer.com) | Independent board member & Advisor. | WIP |
