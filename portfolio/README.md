@@ -30,6 +30,7 @@
 | [tably.com](https://tably.com) | Invested via Accel starters. | WIP |
 | [AugustaLabs](https://www.augustalabs.ai/) | Advisor. | WIP |
 | [Tally](https://mytally.io) | Invested in pre-seed SAFE. | WIP |
+| Numo | SAFE | WIP | 
 | Supertable CRM | Invested in foundation. | WIP |
 | SpawnScript | Invested in foundation. | WIP |
 | Message Hub | Invested in foundation. | WIP |
