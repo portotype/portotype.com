@@ -6,6 +6,8 @@ This guide is my memory on building companies.
 There are many successful companies built in lots of different ways. 
 🤷‍♂️
 
+- Building and Running a company
+    - [The 3 layers principle](2026-05-27-three-layers.md) 
 - Building Products
     - [teams](2018-05-06-teams.md) ★
     - [project management](2016-04-17-project-management.md)
@@ -23,11 +25,3 @@ There are many successful companies built in lots of different ways.
     - [measuring success with cohorts](2015-04-08-measuring-success-with-cohorts.md) ★
     
 
-# Tech Lingo 
-
-Some questions that I get asked.
-
-- What is an [API](API.md)?
-- What is a [Sofware Library](software-library.md)?
-- What is a [Framework](framework.md)?
-- What is an [SDK](sdk.md)?
