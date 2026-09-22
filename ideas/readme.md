@@ -1,5 +1,5 @@
-🖤: This is the still I am obsessing about.
-👫: I invested in this, so others can obsess about it.
+🖤: This is the stuff I am obsessing about.  
+👫: I invested in this, so others can obsess about it.  
 
 Patterns: 
 1. High-quality software that can scale with small teams. [Game-quality Charts engine](), [The AI router](), [Link tracker](2022-06-11-link-tracker.md), [Full-stack Markdown](2022-03-01-full-stack-markdown.md), [All the Payments](2022-06-01-multi-country-payments-terminal/).
