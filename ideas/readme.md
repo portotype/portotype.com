@@ -6,7 +6,7 @@ Patterns:
 2. Delusional, world-conquering plays. [The AI router](), [Data UPS](2025-03-06-www-message-queue.md).
 3. Hardware things. [Robots Distribution](), [ADS-B](), [The underwater drone](2025-05-02-underwater-drone/readme.md), [Blinds](), [Vinyl Killer]()
 4. Simplification of bureaucracy. [Minutes Register (Livro de Atas online)](2023-04-18-livro-de-atas-online), [Stripe Atlas for Europe](2022-06-14-stripe-atlas-for-europe/).
-5. Content. [The Machine World in Data](2025-05-02-OWID-Machine-world.md), [City sensor](), [Diagram]().
+5. Content. [The Machine World in Data](2025-05-02-OWID-Machine-world.md), [City sensors](), [Diagram Show](), [The software gym]().
 
 Ideas (2026, pending)
 - [Game-quality Charts engine]()
@@ -14,8 +14,11 @@ Ideas (2026, pending)
 - [Houses copy Businesses]()
 - [Robots Distribution]()
 - [ADS-B]()
-- [City sensor]()
+- [City sensors]()
 - [Blinds]()
+- [Vinyl Killer]()
+- [Diagram Show](
+- [The software gym]()
   
 Ideas (2025)
 - [E-Learning like e-Health](2025-08-01-sword-learning/readme.md)
