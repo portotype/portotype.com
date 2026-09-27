@@ -4,9 +4,9 @@
 Patterns: 
 1. High-quality software that can scale with small teams. [Game-quality Charts engine](2026-09-24-game-quality-charts-engine/readme.md), [The AI router](), [Link tracker](2022-06-11-link-tracker.md), [Full-stack Markdown](2022-03-01-full-stack-markdown.md), [All the Payments](2022-06-01-multi-country-payments-terminal/).
 2. Delusional, world-conquering plays. [The AI router](), [Data UPS](2025-03-06-www-message-queue.md).
-3. Hardware things. [Robots Distribution](), [ADS-B](), [The underwater drone](2025-05-02-underwater-drone/readme.md).
+3. Hardware things. [Robots Distribution](), [ADS-B](), [The underwater drone](2025-05-02-underwater-drone/readme.md), [Blinds](), [Vinyl Killer]()
 4. Simplification of bureaucracy. [Minutes Register (Livro de Atas online)](2023-04-18-livro-de-atas-online), [Stripe Atlas for Europe](2022-06-14-stripe-atlas-for-europe/).
-5. Content. [The Machine World in Data](2025-05-02-OWID-Machine-world.md), [City sensor]().
+5. Content. [The Machine World in Data](2025-05-02-OWID-Machine-world.md), [City sensor](), [Diagram]().
 
 Ideas (2026, pending)
 - [Game-quality Charts engine]()
@@ -15,6 +15,7 @@ Ideas (2026, pending)
 - [Robots Distribution]()
 - [ADS-B]()
 - [City sensor]()
+- [Blinds]()
   
 Ideas (2025)
 - [E-Learning like e-Health](2025-08-01-sword-learning/readme.md)
