@@ -1,6 +1,6 @@
 # what it is
 
-Build a platform that declutters building companies in Europe.
+Build a platform that declutters building and running companies in Europe.
 
 # the problem
 
@@ -17,3 +17,10 @@ Build a platform that declutters building companies in Europe.
 - the platform provides up-to-date documents and ammendments to most common issues, especially labor contracts and required amendments, etc.
 - it's a subscription.
 - you can build it with one problem at a time, and then expand.
+
+# invest
+
+I have invested in a few businesses that operate on removing bureaucracy:
+- [Coverflex](https://www.coverflex.com) helps companies optimize employee benefits within National taxation schemes, with relevant savings for both the company and the employee;
+- [Tally](https://www.mytally.io) is a one-stop shop for running a company accounting-wise.
+- [Numo](https://www.usenumo.com) reduces the hassle involved in investing company cash balances.
