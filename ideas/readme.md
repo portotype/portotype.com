@@ -17,7 +17,7 @@ Ideas (2026, pending)
 - [City sensors]()
 - [Blinds]()
 - [Vinyl Killer]()
-- [Diagram Show](
+- [Diagram Podcast]()
 - [The software gym]()
   
 Ideas (2025)
