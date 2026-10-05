@@ -33,7 +33,7 @@ The player has
 Diagram
 
 ```
-             DECA AUDIO CARD
+             AUDIO CARD
         63 × 88 mm / ~0.8 mm
 ┌─────────────────────────────────────┐
 │                                     │
@@ -59,14 +59,14 @@ Diagram
                          BLE data
                               │
                               ▼
-                 DECA PLAYER / READER
+                 PLAYER / READER
 ┌─────────────────────────────────────┐
 │                                     │
 │ USB-C power                         │
 │     │                               │
 │     ├──► 13.56 MHz transmitter      │
 │     │          │                    │
-│     │       POWER                    │
+│     │       POWER                   │
 │     │          │                    │
 │     │          ▲                    │
 │     │       [ CARD ]                │
