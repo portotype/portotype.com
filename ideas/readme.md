@@ -1,9 +1,9 @@
 Current ideas by topic 
 1. High-quality software that can scale with small teams. [Game-quality Charts engine](2026-09-24-game-quality-charts-engine/readme.md), [The AI router](2026-09-30-AI-router/readme.md), [Link tracker](2022-06-11-link-tracker.md), [Full-stack Markdown](2022-03-01-full-stack-markdown.md), [All the Payments](2022-06-01-multi-country-payments-terminal/).
 2. Delusional, world-conquering plays. [Data UPS](2025-03-06-www-message-queue.md).
-3. Hardware things. [Robots Distribution](2026-10-04-robot-distribution/readme.md), [ADS-B for Autonomous Vehicles](2026-10-04-ads-b/readme.md), [The underwater drone](2025-05-02-underwater-drone/readme.md), [Robots with Blinds](2026-10-04-robots-with-blinds/readme.md), [Vinyl Killer]().
+3. Hardware things. [Robots Distribution](2026-10-04-robot-distribution/readme.md), [ADS-B for Autonomous Vehicles](2026-10-04-ads-b/readme.md), [The underwater drone](2025-05-02-underwater-drone/readme.md), [Robots with Blinds](2026-10-04-robots-with-blinds/readme.md), [City sensors](2026-10-05-city-sensors/readme.md),  [Vinyl Killer]().
 5. Simplification of bureaucracy. [Stripe Atlas for Europe](2022-06-14-stripe-atlas-for-europe/), [Minutes Register (Livro de Atas online)](2023-04-18-livro-de-atas-online).
-6. Content. [The Machine World in Data](2025-05-02-OWID-Machine-world/readme.md), [City sensors](), [Diagram Podcast](), [The software gym]().
+6. Content. [The Machine World in Data](2025-05-02-OWID-Machine-world/readme.md), [City sensors](2026-10-05-city-sensors/readme.md), [Diagram Podcast](), [The software gym]().
 
 Ideas (2026, pending)
 - [Game-quality Charts engine](2026-09-24-game-quality-charts-engine/readme.md)
@@ -11,7 +11,7 @@ Ideas (2026, pending)
 - [Houses copy Businesses]()
 - [Robots Distribution](2026-10-04-robot-distribution/readme.md)
 - [ADS-B for Autobomous Vehicles](2026-10-04-ads-b/readme.md)
-- [City sensors]()
+- [City sensors](2026-10-05-city-sensors/readme.md)
 - [Robots with Blinds](2026-10-04-robots-with-blinds/readme.md)
 - [Vinyl Killer]()
 - [Diagram Podcast]()
