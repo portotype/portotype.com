@@ -3,7 +3,7 @@ Current ideas by topic
 2. Delusional, world-conquering plays. [Data UPS](2025-03-06-www-message-queue.md).
 3. Hardware things. [Robots Distribution](2026-10-04-robot-distribution/readme.md), [ADS-B for Autonomous Vehicles](2026-10-04-ads-b/readme.md), [The underwater drone](2025-05-02-underwater-drone/readme.md), [Robots with Blinds](2026-10-04-robots-with-blinds/readme.md), [City sensors](2026-10-05-city-sensors/readme.md),  [Vinyl Killer](2026-10-05-vinyl-killer/readme.md).
 5. Simplification of bureaucracy. [Stripe Atlas for Europe](2022-06-14-stripe-atlas-for-europe/), [Minutes Register (Livro de Atas online)](2023-04-18-livro-de-atas-online).
-6. Content. [The Machine World in Data](2025-05-02-OWID-Machine-world/readme.md), [City sensors](2026-10-05-city-sensors/readme.md), [Diagram Podcast](2026-10-05-diagram-podcast/readme.md), [The software gym]().
+6. Content. [The Machine World in Data](2025-05-02-OWID-Machine-world/readme.md), [City sensors](2026-10-05-city-sensors/readme.md), [Diagram Podcast](2026-10-05-diagram-podcast/readme.md), [The software gym](2026-10-05-software-gym/readme.md).
 
 Ideas (2026, pending)
 - [Game-quality Charts engine](2026-09-24-game-quality-charts-engine/readme.md)
@@ -14,7 +14,7 @@ Ideas (2026, pending)
 - [Robots with Blinds](2026-10-04-robots-with-blinds/readme.md)
 - [Vinyl Killer](2026-10-05-vinyl-killer/readme.md)
 - [Diagram Podcast](2026-10-05-diagram-podcast/readme.md)
-- [The software gym]()
+- [The software gym](2026-10-05-software-gym/readme.md)
   
 Ideas (2025)
 - [E-Learning like e-Health](2025-08-01-sword-learning/readme.md)
