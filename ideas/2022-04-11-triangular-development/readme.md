@@ -29,4 +29,4 @@ There seem to be too many agencies and too few engineers solving problems.
 	- provider of build solution (code, PRs, design)
 	- verifier/ maintainer of quality (can be BO or Provider or a third entity). Update: this is a fractional CTO/CPO of sorts.
 
-![image](imaga.png)
+![image](image.png)
