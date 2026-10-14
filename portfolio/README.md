@@ -23,7 +23,7 @@
 | [Zaplib](https://zaplib.com) | Invested in Pre-Seed round. | ⚫️ Closed |
 | [Puter.com](https://puter.com) | Invested in Pre-Seed round. Invested in bridge to Seed round. Invested in bridge to Seed via Accel Starters and via Shilling Scouting. | WIP |
 | [Framedrop](https://framedrop.co) | Invested in Pre-Seed round via Accel Starters. | ⚫️ Closed | 
-| [Kombo](Kombo.dev) | Invested in Seed round via Accel Starters. | WIP |
+| [Kombo](https://kombo.dev) | Invested in Seed round via Accel Starters. | WIP |
 | [userled](https://www.userled.io) | Invested in Seed via Accel Starters. | WIP |
 | [mycelial](https://mycelial.com) | Invested in Safe via Accel Starters. | ⚫️ Closed |
 | [mycareforce](https://mycareforce.co) | Invested via Accel Starters. | WIP |
